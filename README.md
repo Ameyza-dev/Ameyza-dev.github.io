@@ -36,7 +36,7 @@ El proyecto principal consiste en un único archivo `index.html` que contiene to
 
 ## 🔗 Acceso al Portafolio
 
-* **Ver Portafolio en Vivo:** [Insertar aquí el enlace de tu portafolio desplegado, ej: `https://amairany-meza.netlify.app/`]
+* **Ver Portafolio en Vivo:** https://ameyza-dev.github.io/#
 * **Mi Perfil de LinkedIn:** [Amairany Meza Vilorio](https://www.linkedin.com/in/amairany-meza-vilorio-aa1626388)
 * **Mi Perfil de GitHub:** [Ameyza-dev](https://github.com/Ameyza-dev)
 
