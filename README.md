@@ -55,4 +55,4 @@ Dado que este es un proyecto estático sin dependencias de backend, su uso es mu
 
 Si tienes alguna pregunta, oportunidad de colaboración o simplemente quieres saludar, no dudes en contactarme:
 
-* **Email:** `amairany.meza.vilorio@gmail.com`
+* **Email:** `amairany.meza.vilorio3@gmail.com`
